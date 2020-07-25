@@ -11,10 +11,8 @@
 		<h1>3Stones的小栈</h1>
 		<h5></h5>
 		<ul>
-			<a class="blog.3stones.tk" href="#"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; 首页</a>
-			<a class="list-group-item" href="#"><i class="fa fa-book fa-fw" aria-hidden="true"></i>&nbsp; 关于我们</a>
-			<a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; 后台应用编辑</a>
-			<a class="list-group-item" href="#"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp; 系统设置</a>
+			<a class="list-group-item" href="blog.3stones.tk"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; 首页</a>
+			<a class="list-group-item" href="#"><i class="fa fa-book fa-fw" aria-hidden="true"></i>&nbsp; 关于我</a>
 		</ul>
 	</div>
 </body>
