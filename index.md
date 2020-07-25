@@ -1,5 +1,5 @@
 <head>
-	<link rel="icon" href="3stones.ico" >
+	<link rel="icon" href="https://cdn.jsdelivr.net/gh/HongTonYoo/WebHome@master/3stones.ico" >
 	<title>3Stones的小栈</title>
 	<style>
 	a:link{
