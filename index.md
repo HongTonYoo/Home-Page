@@ -1,4 +1,5 @@
 <head>
+	<title>3Stones的小栈</title>  
 	<style>
 	a:link{
 	color:#FFFFFF;
