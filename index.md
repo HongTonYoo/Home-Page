@@ -11,9 +11,7 @@
 		<h1>3Stones的小栈</h1>
 		<h5></h5>
 		<ul>
-			<a href="https://github.com/HongTonYoo"><i class="fab fa-github"></i></a>
-			<li><a href="#"><i class="fa fa-weixin" aria-hidden="true"></i></a></li>
-			<li><a href="#"><i class="fa fa-weibo" aria-hidden="true"></i></a></li>
+			<a href="https://github.com/HongTonYoo"><i class="fab fa-github"></i>fa-3x</a>
 		</ul>
 	</div>
 </body>
