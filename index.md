@@ -1,4 +1,5 @@
 <head>
+	<link rel="shortcut icon" type="image/x-icon" href="https://ae01.alicdn.com/kf/H02ccd30fbc6f42b8b06a4be90edc5effr.png">
 	<style>
 	a:link{
 	color:#ADADAD;
