@@ -1,7 +1,7 @@
 <head>
 	<style>
 	a:link{
-	color:#fffff;
+	color:#FFFFF;
 	}
 	a:visited{
 	color:#FFFFFF;
