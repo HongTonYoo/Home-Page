@@ -11,7 +11,7 @@
 		<h1>3Stones的小栈</h1>
 		<h5></h5>
 		<ul>
-			<a href="blog.3stones.tk"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; 首页</a>
+			<a href="blog.3stones.tk"><i class="fa fa-home fa-3x" aria-hidden="true"></i>&nbsp; 首页</a>
 			<a class="list-group-item" href="#"><i class="fa fa-book fa-fw" aria-hidden="true"></i>&nbsp; 关于我</a>
 		</ul>
 	</div>
