@@ -10,7 +10,7 @@
         />
 	<style>
 	a:link{
-	color:#FFFFF;
+	color:#FFFFFF;
 	}
 	a:visited{
 	color:#FFFFFF;
