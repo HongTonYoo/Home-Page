@@ -1,6 +1,4 @@
 <head>
-	<link rel="icon" href="https://cdn.jsdelivr.net/gh/HongTonYoo/WebHome@master/3stones.ico" >
-	<title>3Stones的小栈</title>
 	<style>
 	a:link{
 	color:#FFFFFF;
@@ -20,6 +18,8 @@
           href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"
         />
 	<link rel="stylesheet" href="style.css">
+	<link rel="icon" href="https://cdn.jsdelivr.net/gh/HongTonYoo/WebHome@master/3stones.ico" >
+	<title>3Stones的小栈</title>
 </head>
 <body>
 	<div class="box">
