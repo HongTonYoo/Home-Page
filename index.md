@@ -1,5 +1,6 @@
 <head>
-	<title>3Stones的小栈</title>  
+	<link rel="icon" href="3stones.ico" >
+	<title>3Stones的小栈</title>
 	<style>
 	a:link{
 	color:#FFFFFF;
