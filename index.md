@@ -4,7 +4,6 @@
           href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"
         />
 	<link rel="stylesheet" href="style.css">
-	<title>3Stones的小栈</title>
 </head>
 <body>
 	<div class="box">
