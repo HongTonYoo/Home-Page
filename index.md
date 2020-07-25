@@ -1,13 +1,13 @@
 <head>
 	<style>
 	a:link{
-	color:#FFFFFF;
-	}
-	a:visited{
 	color:#ADADAD;
 	}
+	a:visited{
+	color:#FFFFFF;
+	}
 	a:hover{
-	color:#0000ff;
+	color:#613030;
 	}
 	a:active{
 	color:#00ff00;
