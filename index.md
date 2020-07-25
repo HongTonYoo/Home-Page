@@ -1,4 +1,18 @@
 <head>
+	<style>
+	a:link{
+	color:#f0000f;
+	}
+	a:visited{
+	color:#ff0000;
+	}
+	a:hover{
+	color:#0000ff;
+	}
+	a:active{
+	color:#00ff00;
+	}
+	</style>
 	<link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"
