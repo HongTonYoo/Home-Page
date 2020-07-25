@@ -4,7 +4,7 @@
 	color:#FFFFFF;
 	}
 	a:visited{
-	color:#ff0000;
+	color:#ADADAD;
 	}
 	a:hover{
 	color:#0000ff;
