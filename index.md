@@ -1,13 +1,4 @@
 <head>
-	<link
-          rel="apple-touch-icon-precomposed"
-          href="https://ae01.alicdn.com/kf/H02ccd30fbc6f42b8b06a4be90edc5effr.png"
-        />
-        <link
-          rel="shortcut
-          icon"
-          href="https://ae01.alicdn.com/kf/H02ccd30fbc6f42b8b06a4be90edc5effr.png"
-        />
 	<style>
 	a:link{
 	color:#FFFFFF;
