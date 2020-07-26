@@ -19,13 +19,13 @@ body{
 
 .box-img{
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 180px;
 }
 
 .box h1{
-    font-size: 40px;
-    letter-spacing: 4px;
+    font-size: 60px;
+    letter-spacing: 2px;
     font-weight: 100;
 }
 
@@ -50,8 +50,8 @@ ul{
 .box li a{
     color: white;
     text-decoration: none;
-    font-size: 60px;
-    transition: all ease-in-out 250ms;
+    font-size: 20px;
+    transition: all ease-in-out 150ms;
 }
 
 .box li a:hover{
