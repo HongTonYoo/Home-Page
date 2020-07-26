@@ -1,12 +1,13 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(https://original.img.cheerfun.dev/img-original/img/2015/06/08/00/01/56/50782598_p0.png) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/HongTonYoo/Home-Page/background.jpg) no-repeat;
     background-size: cover;
 }
 
 .box{
-    width: 450px;
+    width: 500px;
+    height: 500px;
     background: rgba(0, 0, 0, 0.4);
     padding: 40px;
     text-align: center;
@@ -18,8 +19,8 @@ body{
 
 .box-img{
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .box h1{
