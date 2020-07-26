@@ -51,7 +51,7 @@ ul{
     color: white;
     text-decoration: none;
     font-size: 20px;
-    transition: all ease-in-out 150ms;
+    transition: all ease-in-out 300ms;
 }
 
 .box li a:hover{
