@@ -1,13 +1,27 @@
 body{
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+    background-color: rgba(0, 0, 0, 0.9);
+    position: absolute; 
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
     margin: 0;
-    padding: 0;
-    background: url(https://cdn.jsdelivr.net/gh/HongTonYoo/Home-Page/background.jpg) no-repeat; /* 背景图片,将图片重命名为background.jpg上传至存储库 */
-    background-size: cover;
 }
 
+#fullscreen {
+    z-index: -999;
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
 .box{
-    width: 500px;
-    height: 500px;
+    width: auto;
+    height: auto;
     background: rgba(0, 0, 0, 0.4);
     padding: 40px;
     text-align: center;
@@ -24,14 +38,14 @@ body{
 }
 
 .box h1{
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: 2px;
     font-weight: 100;
 }
 
 .box h5{
     font-size: 20px;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
     font-weight: 100;
 }
 
@@ -57,3 +71,4 @@ ul{
 .box li a:hover{
     color: #b9b9b9;
 }
+
